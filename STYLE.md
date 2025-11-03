@@ -343,3 +343,5 @@ An example of a runtime flag is
 as normal until a SIGKILL is received. In this case, as the configuration describes the desired runtime
 behavior in a specific environment and not to the underlying data pipeline, no corresponding field in
 the configuration file should exist.
+
+
